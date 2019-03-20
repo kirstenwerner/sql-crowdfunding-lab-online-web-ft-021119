@@ -1,1 +1,11 @@
-INSERT INTO projects ()
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES
+("a", "category", 1000, "today", "tomorrow")
+("b", "category", 1000, "today", "tomorrow")
+("c", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
+("a", "category", 1000, "today", "tomorrow")
